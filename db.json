@@ -1,0 +1,142 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Lorena",
+      "lastName": "Paniagua",
+      "nickName": "Lolo",
+      "age": 43,
+      "phone": "+54 9 3541 29-5541",
+      "username": "lolo_pani80",
+      "password": "Lolo1980",
+      "email": "lolo_paniagua@hotmail.com",
+      "address": {
+        "address": "Av. Cura Gaucho 1278",
+        "city": "Villa Cura Brochero",
+        "state": "Córdoba"
+      },
+      "birthDate": "1980-05-14",
+      "image": "https://scontent.ffdo5-1.fna.fbcdn.net/v/t39.30808-6/329231455_2337792333049594_7905604499651555694_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=DU7dEIyaaPQAX_r6UqX&_nc_ht=scontent.ffdo5-1.fna&oh=00_AfDU7l83RN7hT0f2jr0HAXbhdpQ-_D19L47H6uVnyinRig&oe=63F059AD",
+      "gender": "female",
+      "company": {
+        "name": "¡Muy rico, Arico!",
+        "title": "Production Operator"
+      }
+    },
+    {
+      "id": 2,
+      "firstName": "Marcelo",
+      "lastName": "Wasinger",
+      "nickName": "Mache",
+      "age": 33,
+      "phone": "+54 9 11 3091-1213",
+      "username": "machewasinger90",
+      "password": "maw90",
+      "email": "marcelo_wasinger@hotmail.com",
+      "address": {
+        "address": "Calle Falsa 123",
+        "city": "Moreno",
+        "state": "Buenos Aires"
+      },
+      "birthDate": "1990-11-25",
+      "image": "https://scontent.ffdo5-1.fna.fbcdn.net/v/t39.30808-6/327134339_639483117946689_7508302668533963356_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=FGTdMIWvsyMAX-qbvMt&_nc_ht=scontent.ffdo5-1.fna&oh=00_AfC3UoQhontbaFGUJOF5weD2W-5B7UvYVQX3Bz_RkC_04w&oe=63EFBAAF",
+      "gender": "male",
+      "company": {
+        "name": "Freelance",
+        "title": "Frontend Developer Jr"
+      }
+    },
+    {
+      "id": 3,
+      "firstName": "Pablo",
+      "lastName": "Ramirez",
+      "nickName": "Ramblo",
+      "age": 28,
+      "phone": "+54 9 11 2875-8521",
+      "username": "ramblo95",
+      "password": "Pablin1995",
+      "email": "pablin_ramirez22@gmail.com",
+      "address": {
+        "address": "Av. Rivadavia 8925",
+        "city": "Morón",
+        "state": "Buenos Aires"
+      },
+      "birthDate": "1995-11-24",
+      "image": "https://scontent.ffdo5-1.fna.fbcdn.net/v/t39.30808-6/327133607_1014224072869946_5459136072784186931_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=oH-tRIYfnBYAX-tTYs2&_nc_ht=scontent.ffdo5-1.fna&oh=00_AfCWUNFgeuaLw_m6dg-2SF49RLKvdpsIrn9_83GSn6Jk7A&oe=63F05DC9",
+      "gender": "male",
+      "company": {
+        "name": "Arti Gianale Helados",
+        "title": "Customer Support"
+      }
+    },
+    {
+      "id": 4,
+      "firstName": "José",
+      "lastName": "Albornoz",
+      "nickName": "Pepe",
+      "age": 59,
+      "phone": "+54 9 11 2875-8521",
+      "username": "jose_pepe",
+      "password": "PepeJose64",
+      "email": "pablin_ramirez22@gmail.com",
+      "address": {
+        "address": "Soldado Toledo 3525",
+        "city": "Martínez",
+        "state": "Buenos Aires"
+      },
+      "birthDate": "1964-07-05",
+      "image": "https://scontent.ffdo5-1.fna.fbcdn.net/v/t39.30808-6/330803154_3442271232758912_6114188500293675510_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=9eetQQ9jbR8AX9miG7c&_nc_ht=scontent.ffdo5-1.fna&oh=00_AfA0WcCyuy2gRQ1Tky7-1YZrg2eju498a1kDs2RyjEd2ig&oe=63F05365",
+      "gender": "male",
+      "company": {
+        "name": "Pepe Louis",
+        "title": "Restaurant Owner"
+      }
+    },
+    {
+      "id": 5,
+      "firstName": "Emma",
+      "lastName": "Paoloski",
+      "nickName": "Emmita",
+      "age": 23,
+      "phone": "+54 9 385 602-9520",
+      "username": "Emmita_pao",
+      "password": "EmPao00",
+      "email": "Emmita_paoloski90@hotmail.com",
+      "address": {
+        "address": "Centenario 1080",
+        "city": "Icaño",
+        "state": "Santiago del Estero"
+      },
+      "birthDate": "2000-02-10",
+      "image": "https://scontent.ffdo5-1.fna.fbcdn.net/v/t39.30808-6/328088148_681422927095480_249126472872235062_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=nt4Qim_rCcoAX_Lx_iO&_nc_oc=AQmZ-rO0xaZ2w6vu9SK39cMv5MzfQg_forMG6b8X_tACWcq3o6jdLWFTWne6AnIwg8TlGfabz7tYV2FncnsnKUDq&tn=UXSAY7pg0LCFHdm1&_nc_ht=scontent.ffdo5-1.fna&oh=00_AfAcvr7sHF3vnRncll3-n6R2-TaR7ETul4HYUtBxjyLPsA&oe=63F00F3D",
+      "gender": "female",
+      "company": {
+        "name": "Giat Automobiles",
+        "title": "Business consultant"
+      }
+    },
+    {
+      "id": 6,
+      "firstName": "Francesca",
+      "lastName": "Wagner",
+      "nickName": "Franchu",
+      "age": 21,
+      "phone": "+54 9 381 412-1425",
+      "username": "Franchu_02",
+      "password": "FranchuW02",
+      "email": "Franchu_Wagner@live.com",
+      "address": {
+        "address": "Los Faroles 2520",
+        "city": "Tafí del Valle",
+        "state": "Tucumán"
+      },
+      "birthDate": "2002-04-09",
+      "image": "https://scontent.ffdo5-1.fna.fbcdn.net/v/t39.30808-6/329808924_731366038437084_7430376480804828381_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=SjvposF_fq0AX_pDk6b&_nc_ht=scontent.ffdo5-1.fna&oh=00_AfDQUHkE9qz4cuVMg4_F4TvhjC0ZnCaKfg5mqM9d2PIA4g&oe=63EF3B16",
+      "gender": "female",
+      "company": {
+        "name": "Mac'konalds",
+        "title": "Kitchen production"
+      }
+    }
+  ]
+}
